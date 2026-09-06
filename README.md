@@ -54,7 +54,7 @@ Add to your `mcp_config.json` (or `.agents/mcp_config.json`):
   "mcpServers": {
     "lectern": {
       "command": "node",
-      "args": ["C:/Users/Ashutosh/PSL2/lectern-mcp/dist/index.js"]
+      "args": ["C:/(your-selected-folder)/browser-vision-mcp/dist/index.js"]
     }
   }
 }
